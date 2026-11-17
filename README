@@ -1,0 +1,59 @@
+# 💰 Expense Pro – Personal Expense Tracker
+
+A professional and user-friendly Personal Expense Tracker built using HTML, CSS, and JavaScript. It helps users manage their income, expenses, monthly budget, and financial activities through a clean dashboard.
+
+## 🚀 Features
+
+- 📊 Professional Dashboard
+- 💵 Total Income, Expenses and Balance
+- ➕ Add New Transactions
+- ✏️ Edit Transactions
+- 🗑️ Delete Transactions
+- 🔍 Search Transactions
+- 📈 Expense Analytics with Charts
+- 📅 Monthly Budget Management
+- 🌙 Dark Mode and Light Mode
+- 📥 Download Expense Report in CSV Format
+- 💾 Local Storage Support
+- 📱 Responsive Design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Chart.js
+- Local Storage
+
+## 📂 Project Structure
+
+Expense-Tracker/
+│
+├── index.html
+├── style.css
+└── script.js
+
+## ⚙️ How to Run the Project
+
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+4. Start managing your income and expenses!
+
+## 💡 Project Purpose
+
+The main purpose of this project is to make personal financial management easier. Users can track their daily transactions, monitor their spending habits, set monthly budgets, and download their financial reports.
+
+## 👨‍💻 Developer
+
+**Gaurav Kumar**
+
+Computer Science Engineering Student
+
+## 📌 Future Improvements
+
+- Advanced date-wise filtering
+- More financial analytics
+- Cloud data backup
+- User authentication
+-
